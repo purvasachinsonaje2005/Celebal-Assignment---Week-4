@@ -1,31 +1,23 @@
 [1] Introduction to containerization and Docker fundamentals, Basic Commands
 
-
 1. What is Containerization?
 
 Containerization is a lightweight form of virtualization that allows applications to run in isolated environments called containers.
-
 Unlike virtual machines, containers share the host operating system kernel, making them faster and more efficient.
-
 Benefits of containerization:
 
 Portability (run anywhere)
-
 Scalability
-
 Efficiency
-
 Easy deployment
 
-📌 2. Introduction to Docker
+2. Introduction to Docker
 
 Docker is the most popular containerization platform.
-
 It helps developers package applications with all dependencies into a single container image.
-
 Containers ensure consistency across development, testing, and production environments.
 
-📌 3. Basic Docker Commands
+3. Basic Docker Commands
 🔹 Docker Version & Info
 docker --version
 docker info
